@@ -16,3 +16,5 @@ This demo also includes an image with changes on a branch for examination of ima
 
 
 Added something in README
+
+Adding something as part of feature 1
